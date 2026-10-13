@@ -1,0 +1,29 @@
+# Editor e Configurações (VS Code, Cursor)
+.vscode/
+.cursor/
+*.code-workspace
+
+# Python
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Java
+target/
+*.class
+.settings/
+.classpath
+.project
+
+# C# / .NET
+bin/
+obj/
+.vs/
+
+# Node.js / Geral
+node_modules/
+.env
+*.log
